@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # dev : Captain_Etrigan
 
 # The package you need for the timer, it wont bother any other packages dont worry
