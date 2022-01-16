@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# dev : Captain_Etrigan
+
 # The package you need for the timer, it wont bother any other packages dont worry
 # this code have a tempo code for testing if you want, its a meme, if you know it, you know it
 import time
